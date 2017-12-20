@@ -1,3 +1,6 @@
+/*PREM KAGRANI*/
+/*MNNIT ALLAHABAD*/
+/*Used simple bfs to find the number of key presses required*/
 #include<bits/stdc++.h>
 using namespace std;
 bool visited[1000002];
